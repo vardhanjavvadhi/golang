@@ -23,3 +23,5 @@ fmt.Printf( "Hello, %s! You are %d years old.\n", name,age)
 
 	fmt.Printf("Nice to meet you, %s! You are %d years old.\n ", inputName, inputage)
 }
+
+//please review and apporve the code sir/mam
